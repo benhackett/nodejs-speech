@@ -1,4 +1,4 @@
 nodjs-speech
 ============
 
-A simple Nodejs server that sends a flac and receives a json object
+A simple speech to text Nodejs server that sends a flac and receives a json object. 
